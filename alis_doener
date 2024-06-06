@@ -1,0 +1,35 @@
+<!DOCTYPE>
+<html lang="de">
+  <head>
+  <link rel="icon" type="image/x-icon" href="kebab.ico">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ali´s Döner</title>
+<style>
+      body {
+  background-image: url('uz12wsde.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover; }
+  p {font-family:	copperplate;
+    color: red;
+    text-align: center;
+    }
+  h1 {font-family: 	copperplate;
+     color: red;
+      text-align: center;
+     }
+  h2 {font-family: 	copperplate;
+     color: red;
+      text-align: center;
+     }
+</style>
+</head>
+<body>
+  <h1>Willkommen bei Ali´s Döner!</h1>
+  <div align="center">
+  <img src="aliskebab.jpg" alt="Alis Döner" width="33%" heigth="300px">
+  </div>
+  
+</body>
+</html>
